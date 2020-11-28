@@ -1,7 +1,8 @@
 # Meme-Share-Application
 This app will give you random memes to share with your friends.
 
-In this app I am getting memes [D3vd/meme_api](https://github.com/D3vd/Meme_Api) 
+* In this app I am getting memes from [D3vd/meme_api](https://github.com/D3vd/Meme_Api) 
+* All the work of image processing is done with the help of [bumptech/glide](https://github.com/bumptech/glide)
 
 **App Screenshots**
 
